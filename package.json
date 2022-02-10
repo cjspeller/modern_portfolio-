@@ -9,7 +9,7 @@
   "author": "Cartrell Speller",
   "license": "MIT",
   "dependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^7.0.0"
   },
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.12.0"
